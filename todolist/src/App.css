@@ -1,0 +1,14 @@
+.container {
+  width: 90%;
+  margin: auto;
+  display: block;
+  ;
+  ;
+}
+
+.btn {
+  padding: 20px;
+  background: black;
+  color: white;
+
+}
